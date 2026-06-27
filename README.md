@@ -64,7 +64,7 @@ shap_summary.png
 
 ## Live Dashboard
 
-[Open Live Dashboard](https://fraud-detection-dashboard-cu4bgxv8egokdhvxe8r9md.streamlit.app/)
+[Open Live Dashboard]([https://fraud-detection-dashboard-b6k4fv3folec2ucahzuoapp.streamlit.app/])
 
 ## Author
 
