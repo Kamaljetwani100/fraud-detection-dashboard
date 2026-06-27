@@ -62,9 +62,9 @@ model_comparison.png
 shap_summary.png
 ```
 
-## Live Dashboard
+## 🚀 Live Dashboard
 
-[Open Live Dashboard]([https://fraud-detection-dashboard-b6k4fv3folec2ucahzuoapp.streamlit.app/])
+👉 **[Open Live Dashboard](https://fraud-detection-dashboard-b6k4fv3folec2ucahzuoapp.streamlit.app/)**
 
 ## Author
 
